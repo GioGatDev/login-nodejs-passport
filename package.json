@@ -21,6 +21,6 @@
     },
     "devDependencies": {
         "mongose": "0.0.2-security",
-        "nodemon": "^2.0.22"
+        "nodemon": "^3.0.1"
     }
 }
